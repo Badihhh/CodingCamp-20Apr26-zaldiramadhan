@@ -1,0 +1,13 @@
+# editor
+.vscode/
+.kiro/
+
+# test files
+test-*.html
+test-*.js
+*test*
+
+# docs yang tidak perlu
+TASK-*.md
+task-*.md
+*_SUMMARY.md
